@@ -1,0 +1,65 @@
+<table cellpadding="2" cellspacing="0" border="1" background="../iface/extralightgrey_tile.jpg">
+  <tbody><tr>
+    <td>Mass (kg)
+    </td><td>4.87 x 10<sup>24</sup>
+  </td></tr>
+  <tr>
+    <td>Diameter (km)
+    </td><td>12104
+  </td></tr>
+  <tr>
+    <td>Mean density (kg/m<sup>3</sup>)
+    </td><td>5250
+  </td></tr>
+  <tr>
+    <td>Escape velocity (m/s)
+    </td><td>10400
+  </td></tr>
+  <tr>
+    <td>Average distance from Sun 
+    </td><td>0.723 AU (108,208,930 km)
+  </td></tr>
+  <tr>
+    <td>Rotation period (length of day in Earth days)
+    </td><td>243.02 (retrograde)
+  </td></tr>
+  <tr>
+    <td>Revolution period (length of year in Earth days) &nbsp; &nbsp;
+    </td><td>224.7
+  </td></tr>
+  <tr>
+    <td>Obliquity (tilt of axis degrees)
+    </td><td>178
+  </td></tr>
+  <tr>
+    <td>Orbit inclination (degrees)
+    </td><td>3.39
+  </td></tr>
+  <tr>
+    <td>Orbit eccentricity (deviation from circular)
+    </td><td>0.007
+  </td></tr>
+  <tr>
+    <td>Mean surface temperature (K)
+    </td><td>726
+  </td></tr>
+  <tr>
+    <td>Visual geometric <a href="../special/glossary.htm#albedo">albedo</a> (reflectivity)
+    </td><td>0.59
+  </td></tr>
+  <tr>
+    <td>Highest point on surface
+    </td><td>Maxwell Montes<br>
+    (17 km above mean planetary radius)
+  </td></tr>
+  <tr>
+    <td valign="top">Atmospheric components
+    </td><td>96% carbon dioxide,<br>
+      3% nitrogen,<br>
+      0.1% water vapor
+  </td></tr>
+  <tr>
+    <td>Surface materials
+    </td><td><a href="../special/glossary.htm#basalt">basaltic</a> rock and altered materials
+  </td></tr>
+</tbody></table>
